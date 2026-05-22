@@ -167,11 +167,12 @@ export default function InvitePage() {
                         marginBottom: 0,
                     }}
                 >
-                    Falls die App noch nicht installiert ist, lade sie zuerst herunter.
-                    Der Einladungscode kann anschließend beim Erstellen des Accounts
-                    übernommen werden.
+                    Falls die App noch nicht installiert ist, lade sie zuerst herunter.<br />
+                    Und klicke danach erst auf den "App öffnen" Button!<br />
+                    Der Einladungscode wird anschließend beim Erstellen des Accounts automatisch
+                    übernommen.
                 </p>
             </section>
-        </main>
+        </main >
     );
 }
